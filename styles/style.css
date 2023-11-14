@@ -28,3 +28,8 @@
     margin: 2%;
     /* Add margin between cards */
 }
+
+/* css for bookmark icon*/
+.material-icons {
+    cursor: pointer;
+}
